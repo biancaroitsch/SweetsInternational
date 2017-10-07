@@ -1,4 +1,4 @@
-# README
+# Sweets International, my first project with Ruby and Rails
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
